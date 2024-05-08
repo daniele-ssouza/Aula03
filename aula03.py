@@ -11,4 +11,5 @@ df = pd.read_csv("https://raw.githubusercontent.com/hermeson883/data_science_wor
 
 st.bar_chart(df, x="Linguagem", y="Desenvolvedores")
 
-st.write("testando novamentee")
+st.image("https://img.odcdn.com.br/wp-content/uploads/2021/07/Lua.jpg")
+
