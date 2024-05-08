@@ -10,3 +10,5 @@ df = pd.read_csv("https://raw.githubusercontent.com/hermeson883/data_science_wor
 # st.plotly_chart(grafico)
 
 st.bar_chart(df, x="Linguagem", y="Desenvolvedores")
+
+st.write("testando novamentee")
